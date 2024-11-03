@@ -1,5 +1,7 @@
 # Professor X
 
+Xavier provides 24/7 virtual mental health support, offering personalized, empathetic conversations and proactive care through AI-driven avatars. Accessible and culturally inclusive, it bridges mental health gaps for diverse communities in need.
+
 ## Prerequisites
 
 - Node.js and pnpm (for web frontend and Node.js agent)
