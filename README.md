@@ -51,3 +51,5 @@ Starter Code bases
 https://github.com/HeyGen-Official/InteractiveAvatarNextJSDemo
 
 https://github.com/livekit-examples/realtime-playground
+
+Presentation - https://professor-x-sdw7dbm.gamma.site/
