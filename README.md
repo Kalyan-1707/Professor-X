@@ -2,6 +2,10 @@
 
 Xavier provides 24/7 virtual mental health support, offering personalized, empathetic conversations and proactive care through AI-driven avatars. Accessible and culturally inclusive, it bridges mental health gaps for diverse communities in need.
 
+Demo - https://youtu.be/6QWaE0WpnqQ
+
+Devpost - https://devpost.com/software/professor-x-virtual-mental-health-support
+
 ## Prerequisites
 
 - Node.js and pnpm (for web frontend and Node.js agent)
